@@ -1,17 +1,1 @@
-{
-  "hourly": {
-    "vibe_word": "Apprehensive",
-    "vibe_score": 4,
-    "summary": "Manchester United fans are in a state of uncertainty and frustration, with mixed reactions to the potential return of Ole Gunnar Solskjær as interim manager. While some express nostalgia and hope for a positive vibe shift, others are skeptical, fearing a repeat of past failures. The overall mood is one of cautious pessimism, with concerns about the club's direction and transfer strategy."
-  },
-  "daily": {
-    "vibe_word": "Despairing",
-    "vibe_score": 3,
-    "summary": "The overall vibe trend for Manchester United fans remains consistently negative, with dominant sentiments of frustration, anger, and despair. There is a strong sense of hopelessness and disappointment directed at the club's management and recent decisions, with no significant shifts in sentiment observed."
-  },
-  "weekly": {
-    "vibe_word": "Frustrated",
-    "vibe_score": 4,
-    "summary": "The overall vibe trend for this weekly period is somewhat negative, with frustration dominating due to inconsistent performances, managerial decisions, and recruitment issues. However, there is a slight undercurrent of cautious optimism about potential improvements and transfers, indicating a stable but tense sentiment."
-  }
-}
+{"hourly": {"vibe_word": "Frustrated", "vibe_score": 4, "summary": "The overall sentiment is a mix of frustration and cautious optimism. Fans are critical of INEOS' decisions and the recent managerial changes, but there's a glimmer of hope for future improvements and a desire for structural changes to support long-term success."}, "daily": {"vibe_word": "Despairing", "vibe_score": 3, "summary": "The overall vibe trend for Manchester United fans remains consistently negative, with dominant sentiments of frustration, anger, and despair. There is a strong sense of hopelessness and disappointment directed at the club's management and recent decisions, with no significant shifts in sentiment observed."}, "weekly": {"vibe_word": "Frustrated", "vibe_score": 4, "summary": "The overall vibe trend for this weekly period is somewhat negative, with frustration dominating due to inconsistent performances, managerial decisions, and recruitment issues. However, there is a slight undercurrent of cautious optimism about potential improvements and transfers, indicating a stable but tense sentiment."}}
